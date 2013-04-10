@@ -1,0 +1,1 @@
+When creating a new project, need to add the lib and config folders to your project folder, then add a reference to the dlls in the lib folder.
